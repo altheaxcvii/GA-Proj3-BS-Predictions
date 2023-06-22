@@ -145,7 +145,7 @@ with st.sidebar:
     st.write('We are the Data Regressionantics from GA DSI37😎')
     st.markdown('''---''')
     st.subheader('⚠️Disclaimer⚠️')
-    st.write('Please note this is not for diagnostic usage. Please seek a psychiatrist or medical professional to diagnose you. Thank you/')
+    st.write('Please note this is not for diagnostic usage. Please seek a psychiatrist or medical professional to diagnose you. Thank you!')
     st.markdown('''---''')
     st.subheader('FAQ')
     st.subheader('Is it 100% accurate?')
